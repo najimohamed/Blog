@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "The Ever-Evolving World of IT",
+      "body": "In today's rapidly changing technological landscape, the world of Information Technology (IT) stands at the forefront of innovation and progress.IT has become an indispensable part of our daily lives, influencing virtually every aspect of modern society.",
+      "author": "Jacop",
+      "id": 1
+    },
+    {
+      "title": "The Marvels of Artificial Intelligence",
+      "body": "Artificial Intelligence (AI) is no longer just a concept from science fiction; it s a transformative reality that is reshaping industries and our daily lives. At its core, AI refers to machines or software that can perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, and understanding natural language.",
+      "author": "David",
+      "id": 2
+    }
+  ]
+}
